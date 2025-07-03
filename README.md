@@ -1,1 +1,1 @@
-# Python-project
+# Machine learning project
